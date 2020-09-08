@@ -1,0 +1,18 @@
+{
+    "name": "botecho",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "5a327980-f14b-11ea-9c7f-d9fde360d16a",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\OneDrive - Senai\\Senai\\IA Azure Desafio\\bot\\botecho\\botecho.bot"
+}
